@@ -2,8 +2,8 @@
 
 ## DISCLAIMER
 
-I use this when I need oauth for a project I'm working on. 
-Note that! this is not a package, just code that I use over and over again when I need it. 
+I use this when I need oauth for a project I'm working on. <br>
+Note that! this is not a package, just code that I use over and over again when I need it. <br> 
 Have a nice day guys!.
 
 ## Contact
